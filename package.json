@@ -1,0 +1,28 @@
+{
+  "name": "@reqbin/connector-spec",
+  "version": "0.1.0",
+  "description": "ReqBin Connector specification package.",
+  "license": "MIT",
+  "keywords": [
+    "reqbin",
+    "connector",
+    "spec",
+    "openapi",
+    "schema"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReqBin/connector-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReqBin/connector-spec/issues"
+  },
+  "homepage": "https://github.com/ReqBin/connector-spec#readme",
+  "files": [
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+# Dependencies and logs
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+__MACOSX/
+
+# Builds / coverage
+dist/
+coverage/
+
+# Env
+.env
+.env.*
